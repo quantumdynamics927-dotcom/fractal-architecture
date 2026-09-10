@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fractal Consciousness",
+      "hasCanvas": true,
+      "bodyTextLen": 3905,
+      "bodyTextHash": "9b6b239662974061a43efeed6534d9f2dc568b8b9225ff100144ecfd39be9c9c",
+      "bodyTextPrefix": "Conciencia Fractal REDUCCIÓN OBJETIVA 150MS ECUACIÓN HARDWARE PU",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fractal Consciousness",
+      "hasCanvas": true,
+      "bodyTextLen": 3847,
+      "bodyTextHash": "ad1c4cd1f983b24cf9803a5c4f7b2f8c0ab6cad8068b5b9e57dd1fbce02d7fc9",
+      "bodyTextPrefix": "Conciencia Fractal EN UN MODELO EXPLORATORIO La arquitectura fra",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
